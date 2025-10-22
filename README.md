@@ -2,7 +2,8 @@
 A darkened variant with enhanced contrast of One Dark theme for [Zed](https://zed.dev/).
 
 ## Preview
-![image](https://github.com/user-attachments/assets/7fcc10e6-1745-4a72-9c5b-2eecc69d0aae)
+<img width="2046" height="1152" alt="one-dark-darkened" src="https://github.com/user-attachments/assets/e83b9000-6d5f-429d-b8de-2a1027fa6489" />
+
 
 ## Usage
 Downloadable via the extensions tab in Zed
