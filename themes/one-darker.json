@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "One Dark - Darkened",
-  "author": "Pavle Sokic <pavles6@protonmail.com>",
+  "name": "One Darker",
+  "author": "Edney Osf <edney.osf@gmail.com>",
   "themes": [
     {
-      "name": "One Dark - Darkened",
+      "name": "One Darker",
       "appearance": "dark",
       "style": {
         "border": "#2f323bff",
